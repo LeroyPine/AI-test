@@ -21,8 +21,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/LeroyPine/AI-test.git
-cd AI-test
+git clone https://github.com/LeroyPine/weather-mcp-server.git
+cd weather-mcp-server
 ```
 
 ### 2. 编译项目
